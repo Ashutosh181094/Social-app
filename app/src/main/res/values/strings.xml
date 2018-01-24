@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InstgramClone</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="auth_failed">Authentication Failed</string>
+    <string name="auth_sucess">Authentication Successfull</string>
+</resources>
